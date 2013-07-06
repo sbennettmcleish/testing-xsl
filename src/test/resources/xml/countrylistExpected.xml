@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Countries>
+    <Country>
+        <Name>Antigua and Barbuda</Name>
+        <Capital>Saint John&apos;s</Capital>
+        <TLD>.ag</TLD>
+    </Country>
+    <Country>
+        <Name>Australia</Name>
+        <Capital>Canberra</Capital>
+        <TLD>.au</TLD>
+    </Country>
+</Countries>
