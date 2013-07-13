@@ -6,3 +6,5 @@ Test XSLs/XSLTs with the ability to:
 * ... and more coming
 
 For more info, refer to blog series here: http://thecuriousdev.com/blog/categories/xsl/
+
+[![Build Status](https://travis-ci.org/sbennettmcleish/testing-xsl.png?branch=master)](https://travis-ci.org/sbennettmcleish/testing-xsl)
